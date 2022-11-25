@@ -16,7 +16,8 @@ basis componenten:
 
 Voor de backend van het "flutter in the air" project moeten we gebruik maken van AWS, Dit hebben we nog niet eerder gebruikt.
 
-Hiervoor heb ik een basis "Hello world" applicatie gemaakt hierin zoek ik uit hoe ik connectie moet maken tussen onze backend (nodejs) en AWS.
+Hiervoor heb ik een basis "Hello world" applicatie gemaakt hierin zoek ik uit hoe ik connectie moet maken tussen onze backend (NodeJS) en AWS.
+Ook hoe ik een lambda functie kan deployen naar AWS via NodeJS en ook lokaal kan runnen.
 
 Om dit te realiseren heb ik gebruik gemaakt van AWS sam
 
